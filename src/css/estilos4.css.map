@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,EAAE;EACD,KAAK,ECGM,GAAG;;ADAf,IAAI;EACH,KAAK,ECNK,KAAK;;ADQhB,IAAI;EACH,gBAAgB,ECIR,SAAS;;ADAjB,UAAK;EACJ,KAAK,ECdI,KAAK;EDed,gBAAgB,ECHT,UAAU",
+"sources": ["../sass/estilos4.scss","../sass/_variables.scss"],
+"names": [],
+"file": "estilos4.css"
+}

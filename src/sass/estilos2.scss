@@ -1,0 +1,23 @@
+@import "~bootstrap/scss/bootstrap";
+@import "~animate.css/animate.css";
+@import "variables";
+
+
+h1{
+	color: $colorUno;
+}
+
+body{
+	color:$colorDos;
+}
+body{
+	background-color:$colorNueve;
+}
+
+form{
+	input{
+		color: $colorD;
+		background-color: $colorSeis;
+	}
+}
+

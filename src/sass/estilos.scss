@@ -1,0 +1,33 @@
+
+@import "~bootstrap/scss/bootstrap";
+@import "~animate.css/animate.css";
+@import "variables";
+
+
+
+
+h1{
+	color: $colorSiete;
+}
+
+body{
+	color:$colorDos;
+}
+body{
+	background-color:$colorCinco;
+}
+
+form{
+	input{
+		color: $colorUno;
+		background-color: $colorTres;
+	}
+}
+
+
+
+$mg-top: "100px";
+
+#container-index {
+  margin-top: $mg-top;
+}
